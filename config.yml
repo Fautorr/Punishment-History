@@ -1,0 +1,36 @@
+####################################################################################
+#                                                                                  #
+#  ,------.                 ,--.       ,--.                                ,--.    #
+#  |  .--. ',--.,--.,--,--, `--' ,---. |  ,---. ,--,--,--. ,---. ,--,--, ,-'  '-.  #
+#  |  '--' ||  ||  ||      \,--.(  .-' |  .-.  ||        || .-. :|      \'-.  .-'  #
+#  |  | --' '  ''  '|  ||  ||  |.-'  `)|  | |  ||  |  |  |\   --.|  ||  |  |  |    #
+#  `--'      `----' `--''--'`--'`----' `--' `--'`--`--`--' `----'`--''--'  `--'    #
+#                                                                                  #
+#               ,--.  ,--.,--.        ,--.                                         #
+#               |  '--'  |`--' ,---.,-'  '-. ,---. ,--.--.,--. ,--.                #
+#               |  .--.  |,--.(  .-''-.  .-'| .-. ||  .--' \  '  /                 #
+#               |  |  |  ||  |.-'  `) |  |  ' '-' '|  |     \   '                  #
+#               `--'  `--'`--'`----'  `--'   `---' `--'   .-'  /                   #
+#                                                       `---'                      #
+#                          View a player's punishment                              #
+#                            through a gui system                                  #
+#                                                                                  #
+#        CONTACT                                                                   #
+#          × Twitter: @fautorr                                                     #
+#          × Discord: fautor#0001                                                  #
+#                                                                                  #
+#        PLACEHOLDERS                                                              #
+#          × Punishment-History-PREMIUM.jar coming soon..                          #
+#                                                                                  #
+#        PERMISSIONS                                                               #
+#          × phistory.access                                                       #
+#          × phistory.view.punisher                                                #
+#          × phistory.view.reason                                                  #
+#                                                                                  #
+####################################################################################
+
+#Punishment systems that will be used to check a player's history.
+# (If you have a public punishment system, contact the
+# developer for your plugin to be added as a dependency)
+Dependencies:
+  LiteBans: true

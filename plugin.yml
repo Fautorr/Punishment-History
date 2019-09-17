@@ -1,0 +1,10 @@
+name: Punishment-History-PRE-RELEASE
+main: me.fautor.punishmenthistory.Main
+version: 0.0.1
+author: Fautor
+softdepend:
+  - LiteBans
+  - AdvancedBans
+commands:
+  hist:
+    aliases: [h, c, phistory, ph, history]
